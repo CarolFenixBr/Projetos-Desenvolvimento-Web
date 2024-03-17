@@ -1,2 +1,2 @@
 # Projetos-Desenvolvimento-Web
-Projetos desenvolvidos durante o Curso de Desenvolvimento Web Completo
+Projetos em andamento do curso de Desenvolvimento Web Completo
